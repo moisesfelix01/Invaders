@@ -106,7 +106,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 01730c5d8ae90dc4cb32fd32513fdf3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyBullet
-  enemyBulletPrefab: {fileID: 0}
   speed: 5
 --- !u!50 &-6121287507860364398
 Rigidbody2D:
